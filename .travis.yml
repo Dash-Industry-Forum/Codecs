@@ -1,0 +1,18 @@
+language: minimal
+
+script: echo "No test yet."
+
+deploy:
+  provider: script
+  script: ./scripts/trigger_website_build.sh $TRAVIS_TOKEN
+  on:
+    branch: master
+    repo: Dash-Industry-Forum/Codecs
+
+notifications:
+  email:
+    recipients:
+      - tsto@qti.qualcomm.com
+      - wilaw@akamai.com
+    on_success: never # default: change
+    on_failure: always # default: always
