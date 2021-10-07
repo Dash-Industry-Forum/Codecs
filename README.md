@@ -15,10 +15,10 @@ The codecs are grouped per type in different CSV files. Each line of
 the CSV files is composed of exactly 5 fields following the same pattern
 `name|specification|codec|profile|comment`.
 
-- `codec`: the codec name
+- `name`: the media profile name
 - `specification`: name and version of the corresponding specification, e.g. ISO/IEC 23009-2
-- `codec`: the '@codecs' parameter to be used in the dash MPD
-- `profile`: the CMAF media profile identifier
+- `codec`: the `@codecs` parameter to be used in the dash MPD
+- `profile`: the CMAF media profile 4CC brand to be added to the `@containerProfiles`
 - `comment`: free form comment related to the codec
 
 To make a valid Pull Request, it boils down to:
