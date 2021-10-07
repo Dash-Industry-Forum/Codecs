@@ -1,6 +1,6 @@
 # DASH-IF Codecs Catalogue
 
-This repository collects the list of codecs and parameters on how to add to DASH. Note that this does not act as a formal registration authority. Requests for adding an codecs are formally submited via a Pull Request here. The simplest way to submit a Pull Request is described bellow.
+This repository collects the list of codecs and parameters on how to add to DASH. Note that this does not act as a formal registration authority. Requests for adding an codecs are formally submitted via a Pull Request here. The simplest way to submit a Pull Request is described bellow.
 
 ## Submission process
 
