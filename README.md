@@ -19,7 +19,7 @@ the CSV files is composed of exactly 5 fields following the same pattern
 - `specification`: name and version of the corresponding specification, e.g. ISO/IEC 23009-2
 - `codec`: the `@codecs` parameter to be used in the dash MPD
 - `profile`: the CMAF media profile 4CC brand to be added to the `@containerProfiles`
-- `comment`: free form comment related to the codec
+- `comment`: free form comment related to the codec, for example additional parameters and requirements
 
 To make a valid Pull Request, it boils down to:
 
