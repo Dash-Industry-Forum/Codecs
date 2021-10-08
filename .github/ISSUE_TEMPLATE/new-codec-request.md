@@ -7,14 +7,34 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Name of Submitting Organization:
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+URL to Organization:
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+Name (of contact person):
+
+
+Email (of contact person):
+
+
+Subject:
+
+
+Message:
+
+
+Registered Type (should be a URN or a URL owned by the organization.):
+
+
+Suggested Codec:
+
+
+Specification (Upload Specification, if available. The specification in which this identifier is defined, if possible. A copy of the specification would be helpful, as it enables the DASH-IF to understand the catalogued value better.)
+Upload with the issue; Acceptable file types: doc,docx,pdf,txt,gif,jpg,jpeg,png,zip. Maximum file size: 10mb.
+
+
+Abstract
+(A brief ‘abstract’ of the meaning of the identifier and the usage of the @value, perhaps ten to twenty words.):
+
