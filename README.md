@@ -1,6 +1,6 @@
 # DASH-IF Codecs Catalogue
 
-This repository collects the list of codecs and parameters on how to add to DASH. Note that this does not act as a formal registration authority. Requests for adding an codecs are formally submitted via a Pull Request here. The simplest way to submit a Pull Request is described bellow.
+This repository collects the list of codecs as well as associated parameters for the codecs when added to DASH. Note that this is not a formal registration, but an informative list. Requests for adding an codecs are formally submitted via a Pull Request here. The simplest way to submit a Pull Request is described bellow.
 
 ## Submission process
 
@@ -13,12 +13,14 @@ This repository collects the list of codecs and parameters on how to add to DASH
 
 The codecs are grouped per type in different CSV files. Each line of 
 the CSV files is composed of exactly 5 fields following the same pattern
-`name|specification|codec|profile|comment`.
+`name|specification|codec|profile|terms|contact|comment`.
 
-- `name`: the media profile name
+- `name`: the media profile name according to the [MP4RA registration] (https://mp4ra.org/#/brands)
 - `specification`: name and version of the corresponding specification, e.g. ISO/IEC 23009-2
 - `codecs`: the `@codecs` parameter to be used in the dash MPD
-- `profile`: the CMAF media profile 4CC brand to be added to the `@containerProfiles`
+- `profile`: the CMAF media profile 4CC brand to be added to the `@containerProfiles` according to the [MP4RA brand] (https://mp4ra.org/#/brands)
+- `terms`: any information on terms of the codec, for example a link to the IPR policy
+- `contact`: any information in a contact, for example a link to a web page, that can help on acquiring the specification
 - `comment`: free form comment related to the codec, for example additional parameters and requirements
 
 To make a valid Pull Request, it boils down to:
