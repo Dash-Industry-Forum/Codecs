@@ -1,1 +1,19 @@
 test audio|test|test|test|test|test|test
+MPEG-4 AAC Profile|caac|mp4a.40.2|ISO/IEC 23000-19 clause 10.3|https://www.via-corp.com/licensing/aac/|
+MPEG-4 HE-AAC Profile|caac|mp4a.40.5|ISO/IEC 23000-19 clause 10.3|https://www.via-corp.com/licensing/aac/|
+MPEG-4 HE-AAC v2 Profile|caac|mp4a.40.29|ISO/IEC 23000-19 clause 10.3|https://www.via-corp.com/licensing/aac/|
+Enhanced AC-3|ceac|ec-3|ETSI TS 102 366 Annex J|https://professional.dolby.com/licensing|
+AC-4 single stream|ca4s|ac-4.x.y.z|ETSI TS 103 190-2|https://professional.dolby.com/licensing|
+AC-4 main|ca4m||ac-4.x.y.z|ETSI TS 103 190-2|https://professional.dolby.com/licensing|
+DTS core|dts1|dtsc|ETSI TS 102 114 Annex H|https://www.xperi.com/contact-us/|
+DTS-HD core+extension|dts1|dtsh|ETSI TS 102 114 Annex H|https://www.xperi.com/contact-us/|
+DTS-HD LBR|dts1|dtse|ETSI TS 102 114 Annex H|https://www.xperi.com/contact-us/|
+DTS-UHD Profile 2|dts2|dtsx|ETSI TS 103 491 Annex E|https://www.xperi.com/contact-us/|
+DTS-UHD Profile 3|dts3|dtsy|ETSI TS 103 491 Annex E|https://www.xperi.com/contact-us/|
+MPEG-H Audio LC Profile Level 1|cmhs|mhm1.0x0B|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 2|cmhs|mhm1.0x0C|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 3|cmhs|mhm1.0x0D|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 1 multistream|cmhm|mhm2.0x0B|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 2 multistream|cmhm|mhm2.0x0C|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 3 multistream|cmhm|mhm2.0x0D|ISO/IEC 230000-19 Annex J|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-D USAC (xHE-AAC)|casu|mp4a.40.42|ISO/IEC 230000-19 Annex K|https://www.via-corp.com/licensing/mpeg-h/|
