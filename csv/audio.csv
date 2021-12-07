@@ -2,8 +2,8 @@ MPEG-4 AAC Profile|ISO/IEC 23000-19 clause 10.3|mp4a.40.2|caac|https://www.via-c
 MPEG-4 HE-AAC Profile|ISO/IEC 23000-19 clause 10.3|mp4a.40.5|caac|https://www.via-corp.com/licensing/aac/|
 MPEG-4 HE-AAC v2 Profile|ISO/IEC 23000-19 clause 10.3|mp4a.40.29|caac|https://www.via-corp.com/licensing/aac/|
 Enhanced AC-3|ETSI TS 102 366 Annex J|ec-3|ceac|https://professional.dolby.com/licensing|
-AC-4 single stream|ETSI TS 103 190-2|ac-4.x.y.z|ca4s|https://professional.dolby.com/licensing|
-AC-4 main|ETSI TS 103 190-2|ac-4.x.y.z|ca4m|https://professional.dolby.com/licensing|
+AC-4 single stream|ETSI TS 103 190-2 Annex H|ac-4.x.y.z|ca4s|https://professional.dolby.com/licensing|
+AC-4 main|ETSI TS 103 190-2 Annex H|ac-4.x.y.z|ca4m|https://professional.dolby.com/licensing|
 DTS core|ETSI TS 102 114 Annex H|dtsc|dts1|https://www.xperi.com/contact-us/|
 DTS-HD core+extension|ETSI TS 102 114 Annex H|dtsh|dts1|https://www.xperi.com/contact-us/|
 DTS-HD LBR|ETSI TS 102 114 Annex H|dtse|dts1|https://www.xperi.com/contact-us/|
