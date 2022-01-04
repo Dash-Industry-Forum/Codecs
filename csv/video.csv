@@ -1,1 +1,19 @@
-test|test|test|test|test|test|test
+AVC High profile|ISO/IEC 23000-19 clause A.2|avc1.64001F avc3.64001F|cfsd| |
+AAC High profile|ISO/IEC 23000-19 clause A.2|avc1.640028 avc3.640028|cfhd| |
+AAC High profile|ISO/IEC 23000-19 clause A.2|avc1.64002A avc3.64002A|cfhd| |
+HEVC Main profile|ISO/IEC 23000-19 clause B.5|hev1.1.6.L123.B0 hvc1.1.6.L123.B0|chhd| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.5|hev1.2.4.L123.B0 hvc1.2.4.L123.B0|chh1| |
+HEVC Main profile|ISO/IEC 23000-19 clause B.5|hev1.1.6.L150.B0 hvc1.1.6.L150.B0|cud8| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.5|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|cud1| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.5|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|chd1| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.5|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|clg1| |
+HEVC Main profile|ISO/IEC 23000-19 clause B.6|hev1.1.6.L150.B0 hvc1.1.6.L150.B0|cud9| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.6|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|cud2| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.6|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|chd2| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.6|hev1.2.4.L153.B0 hvc1.2.4.L153.B0|clg2| |
+HEVC Main 10 profile|ISO/IEC 23000-19 clause B.7|hev1.2.4.L123.60 hvc1.2.4.L123.60|cint| |
+HEVC Main 10 profile|SCTE 215-1-1:2020b| dvhe.08.09 dvh1.08.09|cdm1| |
+HEVC Main 10 profile|SCTE 215-1-1:2020b| hev1.2.4.L153.B0 hvc1.2.4.L153.B0|cdm4| |
+VVC Main 10 profile|ISO/IEC 23000-19 clause M|vvc1.1.L67.CQA.O0+3 vvci.1.L67.CQA.O0+3|cvvc| |
+EVC Baseline profile|ISO/IEC 23000-19 clause N|evc1.vprf0.vlev123|cevb| |
+EVC Main profile|ISO/IEC 23000-19 clause N|evc1.vprf1.vlev153|cevm| |
