@@ -9,10 +9,10 @@ DTS-HD core+extension|ETSI TS 102 114 Annex H|dtsh|dts1|https://www.xperi.com/co
 DTS-HD LBR|ETSI TS 102 114 Annex H|dtse|dts1|https://www.xperi.com/contact-us/|
 DTS-UHD Profile 2|ETSI TS 103 491 Annex E|dtsx|dts2|https://www.xperi.com/contact-us/|
 DTS-UHD Profile 3|ETSI TS 103 491 Annex E|dtsy|dts3|https://www.xperi.com/contact-us/|
-MPEG-H Audio LC Profile Level 1|ISO/IEC 230000-19 Annex J|mhm1.0x0B|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-H Audio LC Profile Level 2|ISO/IEC 230000-19 Annex J|mhm1.0x0C|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-H Audio LC Profile Level 3|ISO/IEC 230000-19 Annex J|mhm1.0x0D|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-H Audio LC Profile Level 1 multistream|ISO/IEC 230000-19 Annex J|mhm2.0x0B|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-H Audio LC Profile Level 2 multistream|ISO/IEC 230000-19 Annex J|mhm2.0x0C|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-H Audio LC Profile Level 3 multistream|ISO/IEC 230000-19 Annex J|mhm2.0x0D|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
-MPEG-D USAC (xHE-AAC)|ISO/IEC 230000-19 Annex K|mp4a.40.42|casu|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 1|ISO/IEC 23000-19 Annex J|mhm1.0x0B|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 2|ISO/IEC 23000-19 Annex J|mhm1.0x0C|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 3|ISO/IEC 23000-19 Annex J|mhm1.0x0D|cmhs|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 1 multistream|ISO/IEC 23000-19 Annex J|mhm2.0x0B|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 2 multistream|ISO/IEC 23000-19 Annex J|mhm2.0x0C|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-H Audio LC Profile Level 3 multistream|ISO/IEC 23000-19 Annex J|mhm2.0x0D|cmhm|https://www.via-corp.com/licensing/mpeg-h/|
+MPEG-D USAC (xHE-AAC)|ISO/IEC 23000-19 Annex K|mp4a.40.42|casu|https://www.via-corp.com/licensing/mpeg-h/|
